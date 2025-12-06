@@ -1,0 +1,16 @@
+# Hospital Network Architecture (Confidential)
+
+## Overview
+Designed the internal network layout of a multi-floor hospital including switches, servers, CCTV, and critical equipment.
+
+## Why the diagram is not uploaded
+The actual architecture contains internal infrastructure details of the hospital (switch layout, server distribution, ports, VLANs), which cannot be shared publicly for security reasons.
+
+## Work Summary
+- Designed network topology (Core Switch, Access Switches, Servers).
+- Mapped devices and connectivity flow.
+- Created complete CCTV/NVR layout.
+- Documented structured cabling and IP allocation strategy (redacted).
+
+## Tools Used
+Draw.io, Networking Concepts, Documentation Skills
