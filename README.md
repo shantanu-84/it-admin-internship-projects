@@ -1,11 +1,5 @@
 <p align="center">
-
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=shantanu-84&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
-  <!-- Repo Views -->
-  <img src="https://img.shields.io/github/views/shantanu-84/it-admin-internship-projects?color=brightgreen&label=Repo%20Views&style=flat-square"/>
-
+  
   <!-- Skills -->
   <img src="https://img.shields.io/badge/System%20Administration-0078D4?style=flat&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
@@ -26,6 +20,7 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
 
 </p>
+
 # Projects Completed During My IT Administration Internship
 
 This repository contains documentation of the major projects I worked on during my IT Administration internship.  
